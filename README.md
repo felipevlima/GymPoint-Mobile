@@ -3,7 +3,11 @@
 </h1>
 
 <h3 align="center">
+<<<<<<< HEAD
   GymPoint Web
+=======
+  GymPoint Mobile
+>>>>>>> 5981d6a52b57d7af73ccff3933e3fc6322d96a8e
 </h3>
 
 <h4 align="center">
