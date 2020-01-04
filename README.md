@@ -39,7 +39,7 @@ yarn
 
 ### :computer: Run
 
-* Para inicializar o projeto
+* Para inicializar o projeto digite
 
 ```bash
 react-native run-ios
