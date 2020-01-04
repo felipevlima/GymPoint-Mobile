@@ -11,6 +11,10 @@
   !!! Esse projeto precisa do back-end rodando em conjunto !!!
 </h4>
 
+<h4 align="center">
+  PROJETO DESENVOLVIDO E TESTADO NO IOS
+</h4>
+
 <p align="center">Mobile Version: 1.0.0-alpha</p>
 
 ### :outbox_tray: Back-end
